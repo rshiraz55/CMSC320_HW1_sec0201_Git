@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It can be applied to stocks, with enough infromation we can 
+fgure out when to buy and sell a stock with data science. 
